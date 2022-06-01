@@ -1,0 +1,2 @@
+[out]:The ptr pointer is initialized with the address of x
+[out]:the value of the variable pointed by ptr = 10
